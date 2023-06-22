@@ -11,3 +11,11 @@ Why use docker?
 5) Container reuse
 6) Shared container libraries
 
+Docker tools :
+1) Docker File
+2) Docker Images
+3) Docker Containers
+4) Docker Hub
+5) Docker Deamon
+6) Docker Desktop
+7) Docker Registry
