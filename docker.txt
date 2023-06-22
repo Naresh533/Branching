@@ -2,4 +2,12 @@ Intro :
 =======
 Docker is an open source platform that enables developers to build, deploy, run, update and manage containers—standardized, executable components that combine application source code with the operating system (OS) libraries and dependencies required to run that code in any environment.
 
+Why use docker?
+
+1) Improved and seamless container portability
+2) Even lighter weight and more granular updates
+3) Automated container creation
+4) Container versioning
+5) Container reuse
+6) Shared container libraries
 
