@@ -25,5 +25,12 @@ Docker deployment :
 1) Docker plugins
 2) Docker Compose
 3) Kubernetes
+	
+Relational Resources :
+
+1) Red Hat® OpenShift on IBM Cloud
+2) IBM Cloud Satellite® 
+3) Hybrid cloud storage solutions
+4) Cloud services
 
 
